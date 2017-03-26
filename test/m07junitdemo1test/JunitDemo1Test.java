@@ -1,4 +1,4 @@
-package m07junitdemo1;
+package m07junitdemo1test;
 
 import java.util.Arrays;
 import org.junit.Before;
