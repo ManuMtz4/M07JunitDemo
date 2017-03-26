@@ -53,6 +53,6 @@ public class JunitDemo16Test {
 
         thrown.expect(IndexOutOfBoundsException.class);
         thrown.expectMessage("Index: 0, Size: 0");
-        list.get(0); // execution will never get past this line
+        list.get(0);
     }
 }
