@@ -1,4 +1,4 @@
-package m07junitdemo2;
+package m07junitdemo2test;
 
 import m07junitdemo2.Calc;
 import org.junit.Test;
