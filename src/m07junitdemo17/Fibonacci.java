@@ -1,4 +1,4 @@
-package m07junitdemo3;
+package m07junitdemo17;
 
 /**
  * @author manuel y angel

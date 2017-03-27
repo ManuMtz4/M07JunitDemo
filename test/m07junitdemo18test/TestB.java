@@ -1,6 +1,6 @@
 package m07junitdemo18test;
 
-import m07junitdemo3.Fibonacci;
+import m07junitdemo17.Fibonacci;
 import org.junit.Test;
 
 import static org.junit.Assert.assertEquals;

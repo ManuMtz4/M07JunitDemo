@@ -1,6 +1,6 @@
 package m07junitdemo17test;
 
-import m07junitdemo3.Fibonacci;
+import m07junitdemo17.Fibonacci;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.junit.runners.Parameterized;
